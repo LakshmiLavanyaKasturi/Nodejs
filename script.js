@@ -12,3 +12,5 @@ class Person {
 
 const thatGuy = new Person("John Doe", "Software Engineer");
 thatGuy.print();
+
+console.log("This is the end of this file");
