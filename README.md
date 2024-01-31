@@ -1,6 +1,5 @@
 # Sample Node.js Project
 
-## Introduction
 This is a sample Node.js project that demonstrates basic project structure and functionality.
 
 ## Installation
