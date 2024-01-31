@@ -5,17 +5,17 @@ This is a sample Node.js project that demonstrates basic project structure and f
 
 ## Installation
 1. Clone this repository to your local machine:
-git clone https://github.com/your-username/sample-nodejs-project.git
+`git clone https://github.com/your-username/sample-nodejs-project.git`
 
 2. Navigate to the project directory:
-cd sample-nodejs-project
+`cd sample-nodejs-project`
 
 3. Install the project dependencies using npm:
-npm install
+`npm install`
 
 ## Usage
 1. Start the Node.js application:
-npm start
+`npm start`
 
 2. Open your web browser and visit `http://localhost:3000` to see the sample application in action.
 
@@ -30,4 +30,3 @@ npm start
 
 ## Contributing
 Contributions are welcome! Feel free to open issues and pull requests.
-
